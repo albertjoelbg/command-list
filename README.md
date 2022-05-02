@@ -1,2 +1,2 @@
 # command-list
-applicacion de linea de commandos
+cambiando desde el disco F
