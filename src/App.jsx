@@ -57,7 +57,7 @@ function App() {
   const topics = [
     {
       id: 0,
-      title: "xxx",
+      title: "React",
       color: "#019890",
       commands: [
         "npx create-create-react app",
